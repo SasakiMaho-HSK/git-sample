@@ -4,25 +4,27 @@
 マークアップ（HTML）とかをさくっと書けるようなもの
 改行は
 そのまま反映される
+リンク[GitHubのマークダウン記法](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text)
 
 ### 見出し3　箇条書き
--箇条書き
--箇条書き
-    -タブでインデント
-        -もっとインデント
-            -これはできるかな？
-    -できる
+- 箇条書き
+* 箇条書き
+  + タブでインデント
+    - もっとインデント
+      - これはできるかな？
+    - できる
 
--[x]チェック済み
--[]チェックなし
+- [x] チェック済み
+- [] チェックなし
 
 1. 番号付き
 2. 箇条書き
-    2-1. インデント
+   - インデント
 
 ### 強調
 *斜体の強調*
 **太字の強調**
+***斜体で太字の強調***
 ~~打ち消し線~~
 
 ### インライン表示
